@@ -1,0 +1,1 @@
+INSERT INTO TYPE_PRODUIT(ID,VAL,DESCE) VALUES (getSeqTypeProduit(),'lubrifiant','produit lubrifiant');
